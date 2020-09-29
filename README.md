@@ -1,2 +1,1 @@
-# calculator
-simple calculator in python
+# INST126-Fall2020
